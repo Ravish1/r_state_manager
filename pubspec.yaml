@@ -1,0 +1,18 @@
+name: r_state_manager
+description: A custom state management solution for Flutter.
+
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.5.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
